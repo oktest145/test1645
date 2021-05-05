@@ -1,6 +1,6 @@
 {
-    "name": "Python-Drive-Bot",
-    "description": "Telegram-Direct-Mirror to G-Drive",
+    "name": "Test123",
+    "description": "Test124",
     "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
     "keywords": [
       "telegram",
@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/Banned-Mirror-Bot.git",
-    "website": "https://github.com/AbirHasan2005/Banned-Mirror-Bot/tree/main",
-    "success_url": "https://github.com/AbirHasan2005/Banned-Mirror-Bot/blob/main/README.md",
+    "repository": "https://github.com/oktest145/test1645",
+    "website": "https://github.com/oktest145/test1645",
+    "success_url": "https://github.com/oktest145/test1645/Readme.md",
     "stack": "container",
     "env": {
       "ENV": {
